@@ -1,0 +1,2 @@
+# Customer_shopping_behaviour_analysis
+Data Analysis project showcasing Customer_shopping_behaviour_analysis using python, SQL and powerBi
