@@ -72,7 +72,7 @@ SQL Server was used to answer business questions such as:
 
 ### SQL Concepts
 
-`GROUP BY` • `CASE` • Subqueries • CTEs • Aggregate Functions • Window Functions • `ROW_NUMBER()` • `PARTITION BY`
+`GROUP BY` • `CASE` • `Subqueries` • `CTEs` • `Aggregate Functions` • `Window Functions` • `ROW_NUMBER()` • `PARTITION BY`
 
 ---
 
@@ -88,7 +88,6 @@ The Power BI dashboard provides an interactive view of:
 - Customer segments
 - Age-group analysis
 
-**Power BI File:** `Customer_Behaviour_Analysis.pbix`
 
 ---
 
